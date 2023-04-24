@@ -6,8 +6,7 @@ public class Question4
   {
         int i,j,rows;
   Scanner sc = new Scanner(System.in);
-    System.out.println("Enter the number of rows");
-    rows = sc.nextInt();
+    rows = 5
   for(i=1;i<=rows;i++)
     {
       for(j=1;j<=i;j++)
