@@ -4,6 +4,8 @@ public class Question2
 {
   public static void main(String[] args)
   {
+    int weight = 50;
+    int height = 1.8;
     double BMI = weight / (height * height);
       System.out.print(BMI);
     /**
