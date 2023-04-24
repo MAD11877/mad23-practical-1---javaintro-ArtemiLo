@@ -4,6 +4,7 @@ public class Question3
 {
   public static void main(String[] args)
   {
+    int integer = 5;
     int multiply = (integer * integer);
     System.out.print(multiply);
     /**
